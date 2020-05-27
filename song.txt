@@ -1,7 +1,5 @@
     "Bohemian Rhapsody"
 
-  Queen
-
 Mama, just killed a man
 Put a gun against his head
 Pulled my trigger, now he's dead
@@ -17,3 +15,6 @@ As if nothing really matters
 Too late, my time has come
 Sends shivers down my spine
 Body's aching all the…
+
+
+   Queen
